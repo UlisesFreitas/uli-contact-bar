@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="cellphone_bright_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="34px" height="63px" viewBox="0 0 34 63" enable-background="new 0 0 34 63" xml:space="preserve">
+<path fill="#999999" stroke="#CCCCCC" stroke-width="2" stroke-miterlimit="10" d="M33,58.244
+	C33,60.318,31.318,62,29.244,62H4.756C2.682,62,1,60.318,1,58.244V4.756C1,2.682,2.682,1,4.756,1h24.487C31.318,1,33,2.682,33,4.756
+	V58.244z"/>
+<path fill="#CCCCCC" d="M22,56.598C22,57.372,21.372,58,20.597,58h-6.194C13.628,58,13,57.372,13,56.598v-0.195
+	C13,55.628,13.628,55,14.403,55h6.194C21.372,55,22,55.628,22,56.402V56.598z"/>
+<g>
+	<circle fill="#CCCCCC" cx="17.589" cy="31.831" r="3.292"/>
+	<circle fill="#CCCCCC" cx="26.462" cy="31.831" r="3.293"/>
+	<circle fill="#CCCCCC" cx="8.717" cy="31.831" r="3.292"/>
+	<circle fill="#CCCCCC" cx="17.589" cy="40.367" r="3.292"/>
+	<circle fill="#CCCCCC" cx="26.462" cy="40.367" r="3.293"/>
+	<circle fill="#CCCCCC" cx="8.717" cy="40.367" r="3.292"/>
+	<circle fill="#CCCCCC" cx="17.589" cy="14.758" r="3.292"/>
+	<circle fill="#CCCCCC" cx="26.462" cy="14.758" r="3.293"/>
+	<circle fill="#CCCCCC" cx="8.717" cy="14.758" r="3.292"/>
+	<circle fill="#CCCCCC" cx="17.589" cy="23.294" r="3.292"/>
+	<circle fill="#CCCCCC" cx="26.462" cy="23.294" r="3.293"/>
+	<circle fill="#CCCCCC" cx="8.717" cy="23.294" r="3.292"/>
+</g>
+</svg>

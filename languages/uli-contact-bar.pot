@@ -1,0 +1,420 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Uli Contact Bar\n"
+"POT-Creation-Date: 2019-10-29 15:44+0100\n"
+"PO-Revision-Date: 2019-10-29 15:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: uninstall.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-uli-contact-bar-admin.php:422
+msgid "Example"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:423
+msgid "Enter a valid URL. If the URL is invalid it will not be used."
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:424
+#, php-format
+msgid "Your URL on %s"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:428
+msgid "Your Contact Data"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:429
+msgid ""
+"Set the contact informations. To supress displaying a field leave it empty."
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:433
+msgid "Headline"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:434
+msgid "Enter a short headline for the contact bar"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:438
+msgid "URL of the headline"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:439
+msgid ""
+"Enter a web address and the headline becomes a link. The address must start "
+"with http:// or https://"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:445
+#: public/class-uli-contact-bar.php:854
+msgid "Phone Number"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:446
+msgid ""
+"Enter your official contact phone number. Since web pages can be accessed "
+"worldwide the phone number should include the international dialing prefix "
+"of your country like +49 for Germany, making the number useable from any "
+"location."
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:450
+msgid "Phone Text"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:451
+msgid ""
+"Enter a text for the phone link, otherwise the phone number will be "
+"displayed."
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:457
+msgid "Appeareance of the contact bar"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:458
+msgid "Set the graphical properties of the contact bar."
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:462
+msgid "Maximal viewport width to hide the bar"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:463
+msgid ""
+"Select the maximal viewport width for hiding the bar. Rule of thumb: 480px "
+"and below = hide in smartphones; 1024px and below = probably tablets."
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:464
+#: admin/class-uli-contact-bar-admin.php:471
+msgid "never hide"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:464
+#: admin/class-uli-contact-bar-admin.php:471
+msgid "320px"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:464
+#: admin/class-uli-contact-bar-admin.php:471
+msgid "480px"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:464
+#: admin/class-uli-contact-bar-admin.php:471
+msgid "640px"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:464
+#: admin/class-uli-contact-bar-admin.php:471
+msgid "768px"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:464
+#: admin/class-uli-contact-bar-admin.php:471
+msgid "1024px"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:469
+msgid "Minimal viewport width to hide the bar"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:470
+msgid ""
+"Select the minimal viewport width for hiding the bar. Rule of thumb: 480px "
+"and above = show only in smartphones; 1024px and above = hide in desktops."
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:476
+msgid "Position of the bar"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:477
+msgid "Select the position of the bar on every page"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:478
+msgid "at the top"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:478
+msgid "at the bottom"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:483
+msgid "Enable fixed position"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:484
+msgid "Show the bar always visible"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:488
+msgid "Height readjustment for fixed position"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:489
+msgid ""
+"Readjust the space between the bar and the page content (not in mobile "
+"design)"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:495
+msgid "Vertical Padding"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:496
+msgid "Select the space between content and upper and lower border of the bar"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:502
+msgid "Horizontal Padding"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:503
+msgid "Select the space between content and left and right border of the bar"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:509
+msgid "Transparent background"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:510
+msgid "Activate to ignore the background color and to show a transparent bar"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:514
+msgid "Background Color"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:515
+msgid "Select the background color"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:519
+msgid "Background Color Opacity"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:520
+msgid ""
+"Enter a number between 0.0 and 1.0 for 0.0 as no opacity (i.e. highest "
+"transparency) and 1.0 for highest opacity (i.e. no transparency)."
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:524
+msgid "Show shadow"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:525
+msgid ""
+"Activate to show a slight shadow under or above the bar depending on the "
+"position of the bar"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:530
+msgid "Appeareance of the headline"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:531
+msgid "Set the graphical properties of the headline."
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:535
+msgid "Show headline"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:536
+msgid "Activate to show the headline"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:540
+msgid "Keep headline in mobile devices"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:541
+msgid ""
+"Activate to keep displaying the headline in tablets and smartphones, else it "
+"will be hidden"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:545
+msgid "Headline HTML Tag"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:546
+msgid ""
+"Select the HTML element for the headline without changing the headline style"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:553
+msgid "Appeareance of texts and links"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:554
+msgid "Set the graphical properties of the texts and links in the contact bar."
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:558
+msgid "Show texts on small displays"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:559
+msgid ""
+"Activate to keep the postal address, phone numbers and mail address "
+"displayed in small displays"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:563
+msgid "Text Alignment"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:564
+msgid "Select the alignment of the content within the bar"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:565
+msgid "left-aligned"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:565
+msgid "centered"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:565
+msgid "right-aligned"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:570
+msgid "Font Size"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:571
+msgid "Select the font size of the texts and links"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:577
+msgid "Text Color"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:578
+msgid "Select the text color"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:582
+msgid "Link Color"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:583
+msgid "Select the link color"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:587
+msgid "Open links in new windows"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:588
+msgid "Activate to let the links load the target site in new windows or tabs"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:592
+msgid ""
+"Do not open the links of the postal address and the headline in new windows"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:593
+msgid ""
+"Activate to exclude the links of the postal address and the headline from "
+"the previous option to open them in the same window"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:598
+msgid "Appeareance of the icons"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:599
+msgid "Set the graphical properties of the icons in the contact bar."
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:603
+msgid "Icon Size"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:604
+msgid "Select the size of the icons"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:610
+msgid "Icon Brightness"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:611
+msgid "Select the brightness of the icons"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:612
+msgid "bright"
+msgstr ""
+
+#: admin/class-uli-contact-bar-admin.php:612
+msgid "dark"
+msgstr ""
+
+#: public/class-uli-contact-bar.php:447
+msgid "You do not have sufficient permissions to manage options for this site."
+msgstr ""
+
+#: public/class-uli-contact-bar.php:453
+msgid "Contact to us"
+msgstr ""
+
+#: public/class-uli-contact-bar.php:576
+#, php-format
+msgid ""
+"The plugin requires WordPress version %s or higher. Therefore, WordPress did "
+"not activate it. If you want to use this plugin update the Wordpress files "
+"to the latest version."
+msgstr ""
+
+#: public/class-uli-contact-bar.php:1187
+#, php-format
+msgid "Welcome to the plugin %s! You can configure it at %s."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Uli Contact Bar"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.ulisesfreitas.com/uli-contact-bar"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ulises Freitas"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.ulisesfreitas.com/"
+msgstr ""

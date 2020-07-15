@@ -1,0 +1,84 @@
+/*
+ * Layout
+ *
+ */
+.th_wrapper {
+	overflow: hidden;
+}
+#th_main {
+	float: left;
+	width: 66%;
+}
+#th_footer {
+	float: right;
+	width: 33%;
+}
+#th_footer .th_content {
+	margin: .75em 0 1em 1em;
+	background-color: #fdfdfd;
+	border-radius: 8px;
+	border: 1px solid #ccc;
+}
+/*
+ * Elements
+ *
+ */
+ 
+/* Footer */
+#th_footer .th_content h2 {
+	background: none;
+	margin: 0;
+	padding: 8px;
+}
+#th_footer .th_content dl {
+	padding: 0 8px;
+}
+#th_footer .th_content li, 
+#th_footer .th_content dd {
+    margin-bottom: 10px;
+    margin-left: 0;
+}
+#th_footer dl dd  {
+	overflow: hidden;
+}
+#th_footer dl dd img {
+	display: inline;
+	float: left;
+	margin: 0 8px 0 0;
+}
+.form-table td {
+	vertical-align: top;
+}
+input.zero2one {
+	width: 4em;
+}
+
+/* If auto-folding of the admin menu */
+@media only screen and (max-width: 900px) {
+	/* dissolve floating */
+	#th_main,
+	#th_footer,
+	#th_main .th_content,
+	#th_footer .th_content {
+		float: none;
+		width: auto;
+		margin: 0;
+	}
+}
+
+/* Smartphone */
+@media screen and (max-width: 782px) {
+	/* Icons */
+	#th_main .th_content form .form-table label {
+		background-position: 0 0;
+		background-size: 1.44em 1.44em;
+		padding-left: 2.2em;
+		height: auto;
+	}
+	#th_main .th_content form .form-table label[for="headline"],
+	#th_main .th_content form .form-table label[for="headline_url"] {
+		padding-left: 0;
+		height: auto;
+	}
+}
+

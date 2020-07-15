@@ -1,0 +1,535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uli Contact Bar\n"
+"POT-Creation-Date: 2019-10-29 15:42+0100\n"
+"PO-Revision-Date: 2019-10-29 15:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: uninstall.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-uli-contact-bar-admin.php:422
+msgid "Example"
+msgstr "Ejemplo"
+
+#: admin/class-uli-contact-bar-admin.php:423
+#, fuzzy
+msgid "Enter a valid URL. If the URL is invalid it will not be used."
+msgstr ""
+"Introduzca una dirección URL válida. Si la dirección URL no es válida, no se "
+"utilizará."
+
+#: admin/class-uli-contact-bar-admin.php:424
+#, fuzzy, php-format
+msgid "Your URL on %s"
+msgstr "Tu URL en %s"
+
+#: admin/class-uli-contact-bar-admin.php:428
+#, fuzzy
+msgid "Your Contact Data"
+msgstr "Sus datos de contacto"
+
+#: admin/class-uli-contact-bar-admin.php:429
+#, fuzzy
+msgid ""
+"Set the contact informations. To supress displaying a field leave it empty."
+msgstr ""
+"Establezca la información de contacto. Para presionar mostrando un campo "
+"déjelo vacío."
+
+#: admin/class-uli-contact-bar-admin.php:433
+msgid "Headline"
+msgstr "Encabezado"
+
+#: admin/class-uli-contact-bar-admin.php:434
+#, fuzzy
+msgid "Enter a short headline for the contact bar"
+msgstr "Introduzca un título corto para la barra de contactos"
+
+#: admin/class-uli-contact-bar-admin.php:438
+#, fuzzy
+msgid "URL of the headline"
+msgstr "URL del título"
+
+#: admin/class-uli-contact-bar-admin.php:439
+#, fuzzy
+msgid ""
+"Enter a web address and the headline becomes a link. The address must start "
+"with http:// or https://"
+msgstr ""
+"Introduzca una dirección web y el título se convierte en un enlace. La "
+"dirección debe comenzar con http:// o https://"
+
+#: admin/class-uli-contact-bar-admin.php:445
+#: public/class-uli-contact-bar.php:854
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: admin/class-uli-contact-bar-admin.php:446
+#, fuzzy
+msgid ""
+"Enter your official contact phone number. Since web pages can be accessed "
+"worldwide the phone number should include the international dialing prefix "
+"of your country like +49 for Germany, making the number useable from any "
+"location."
+msgstr ""
+"Introduce tu número de teléfono de contacto oficial. Dado que se puede "
+"acceder a las páginas web en todo el mundo, el número de teléfono debe "
+"incluir el prefijo de marcación internacional de su país como +49 para "
+"Alemania, haciendo que el número sea útil desde cualquier ubicación."
+
+#: admin/class-uli-contact-bar-admin.php:450
+#, fuzzy
+msgid "Phone Text"
+msgstr "Texto del teléfono"
+
+#: admin/class-uli-contact-bar-admin.php:451
+#, fuzzy
+msgid ""
+"Enter a text for the phone link, otherwise the phone number will be "
+"displayed."
+msgstr ""
+"Introduzca un texto para el enlace del teléfono, de lo contrario se mostrará "
+"el número de teléfono."
+
+#: admin/class-uli-contact-bar-admin.php:457
+#, fuzzy
+msgid "Appeareance of the contact bar"
+msgstr "Apariencia de la barra de contacto"
+
+#: admin/class-uli-contact-bar-admin.php:458
+#, fuzzy
+msgid "Set the graphical properties of the contact bar."
+msgstr "Establezca las propiedades gráficas de la barra de contactos."
+
+#: admin/class-uli-contact-bar-admin.php:462
+#, fuzzy
+msgid "Maximal viewport width to hide the bar"
+msgstr "Ancho máximo de la ventana gráfica para ocultar la barra"
+
+#: admin/class-uli-contact-bar-admin.php:463
+#, fuzzy
+msgid ""
+"Select the maximal viewport width for hiding the bar. Rule of thumb: 480px "
+"and below = hide in smartphones; 1024px and below = probably tablets."
+msgstr ""
+"Seleccione el ancho máximo de la ventana gráfica para ocultar la barra. "
+"Regla general: 480px y por debajo de la piel en los teléfonos inteligentes; "
+"1024px y por debajo de los comprimidos."
+
+#: admin/class-uli-contact-bar-admin.php:464
+#: admin/class-uli-contact-bar-admin.php:471
+#, fuzzy
+msgid "never hide"
+msgstr "nunca se escondan"
+
+#: admin/class-uli-contact-bar-admin.php:464
+#: admin/class-uli-contact-bar-admin.php:471
+#, fuzzy
+msgid "320px"
+msgstr "320px"
+
+#: admin/class-uli-contact-bar-admin.php:464
+#: admin/class-uli-contact-bar-admin.php:471
+msgid "480px"
+msgstr "480px"
+
+#: admin/class-uli-contact-bar-admin.php:464
+#: admin/class-uli-contact-bar-admin.php:471
+msgid "640px"
+msgstr "640px"
+
+#: admin/class-uli-contact-bar-admin.php:464
+#: admin/class-uli-contact-bar-admin.php:471
+msgid "768px"
+msgstr "768px"
+
+#: admin/class-uli-contact-bar-admin.php:464
+#: admin/class-uli-contact-bar-admin.php:471
+msgid "1024px"
+msgstr "1024px"
+
+#: admin/class-uli-contact-bar-admin.php:469
+#, fuzzy
+msgid "Minimal viewport width to hide the bar"
+msgstr "Ancho mínimo de la ventana gráfica para ocultar la barra"
+
+#: admin/class-uli-contact-bar-admin.php:470
+#, fuzzy
+msgid ""
+"Select the minimal viewport width for hiding the bar. Rule of thumb: 480px "
+"and above = show only in smartphones; 1024px and above = hide in desktops."
+msgstr ""
+"Seleccione el ancho mínimo de la ventana gráfica para ocultar la barra. "
+"Regla general: 480px y superior , mostrar sólo en teléfonos inteligentes; "
+"1024px y superiores a esconderse en los escritorios."
+
+#: admin/class-uli-contact-bar-admin.php:476
+#, fuzzy
+msgid "Position of the bar"
+msgstr "Posición de la barra"
+
+#: admin/class-uli-contact-bar-admin.php:477
+#, fuzzy
+msgid "Select the position of the bar on every page"
+msgstr "Seleccione la posición de la barra en cada página"
+
+#: admin/class-uli-contact-bar-admin.php:478
+#, fuzzy
+msgid "at the top"
+msgstr "A la parte superior"
+
+#: admin/class-uli-contact-bar-admin.php:478
+#, fuzzy
+msgid "at the bottom"
+msgstr "en la parte inferior"
+
+#: admin/class-uli-contact-bar-admin.php:483
+#, fuzzy
+msgid "Enable fixed position"
+msgstr "Habilitar posición fija"
+
+#: admin/class-uli-contact-bar-admin.php:484
+#, fuzzy
+msgid "Show the bar always visible"
+msgstr "Mostrar la barra siempre visible"
+
+#: admin/class-uli-contact-bar-admin.php:488
+#, fuzzy
+msgid "Height readjustment for fixed position"
+msgstr "Reajuste de altura para posición fija"
+
+#: admin/class-uli-contact-bar-admin.php:489
+#, fuzzy
+msgid ""
+"Readjust the space between the bar and the page content (not in mobile "
+"design)"
+msgstr ""
+"Reajustar el espacio entre la barra y el contenido de la página (no en el "
+"diseño móvil)"
+
+#: admin/class-uli-contact-bar-admin.php:495
+msgid "Vertical Padding"
+msgstr "Relleno vertical"
+
+#: admin/class-uli-contact-bar-admin.php:496
+#, fuzzy
+msgid "Select the space between content and upper and lower border of the bar"
+msgstr ""
+"Seleccione el espacio entre el contenido y el borde superior e inferior de "
+"la barra"
+
+#: admin/class-uli-contact-bar-admin.php:502
+msgid "Horizontal Padding"
+msgstr "Padding horizontal"
+
+#: admin/class-uli-contact-bar-admin.php:503
+#, fuzzy
+msgid "Select the space between content and left and right border of the bar"
+msgstr ""
+"Seleccione el espacio entre el contenido y el borde izquierdo y derecho de "
+"la barra"
+
+#: admin/class-uli-contact-bar-admin.php:509
+msgid "Transparent background"
+msgstr "Fondo Transparente"
+
+#: admin/class-uli-contact-bar-admin.php:510
+#, fuzzy
+msgid "Activate to ignore the background color and to show a transparent bar"
+msgstr ""
+"Activar para ignorar el color de fondo y mostrar una barra transparente"
+
+#: admin/class-uli-contact-bar-admin.php:514
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: admin/class-uli-contact-bar-admin.php:515
+msgid "Select the background color"
+msgstr "Seleccionar color de fondo"
+
+#: admin/class-uli-contact-bar-admin.php:519
+#, fuzzy
+msgid "Background Color Opacity"
+msgstr "Opacidad del color de fondo"
+
+#: admin/class-uli-contact-bar-admin.php:520
+#, fuzzy
+msgid ""
+"Enter a number between 0.0 and 1.0 for 0.0 as no opacity (i.e. highest "
+"transparency) and 1.0 for highest opacity (i.e. no transparency)."
+msgstr ""
+"Introduzca un número entre 0,0 y 1,0 para 0,0 como sin opacidad (es decir, "
+"la transparencia más alta) y 1,0 para la opacidad más alta (es decir, sin "
+"transparencia)."
+
+#: admin/class-uli-contact-bar-admin.php:524
+#, fuzzy
+msgid "Show shadow"
+msgstr "Mostrar sombra"
+
+#: admin/class-uli-contact-bar-admin.php:525
+#, fuzzy
+msgid ""
+"Activate to show a slight shadow under or above the bar depending on the "
+"position of the bar"
+msgstr ""
+"Activar para mostrar una ligera sombra debajo o por encima de la barra "
+"dependiendo de la posición de la barra"
+
+#: admin/class-uli-contact-bar-admin.php:530
+#, fuzzy
+msgid "Appeareance of the headline"
+msgstr "Aparición del titular"
+
+#: admin/class-uli-contact-bar-admin.php:531
+#, fuzzy
+msgid "Set the graphical properties of the headline."
+msgstr "Establezca las propiedades gráficas del título."
+
+#: admin/class-uli-contact-bar-admin.php:535
+#, fuzzy
+msgid "Show headline"
+msgstr "Mostrar titular"
+
+#: admin/class-uli-contact-bar-admin.php:536
+#, fuzzy
+msgid "Activate to show the headline"
+msgstr "Activar para mostrar el título"
+
+#: admin/class-uli-contact-bar-admin.php:540
+#, fuzzy
+msgid "Keep headline in mobile devices"
+msgstr "Mantenga el titular en dispositivos móviles"
+
+#: admin/class-uli-contact-bar-admin.php:541
+#, fuzzy
+msgid ""
+"Activate to keep displaying the headline in tablets and smartphones, else it "
+"will be hidden"
+msgstr ""
+"Activar para seguir mostrando el titular en tabletas y teléfonos "
+"inteligentes, de lo contrario se ocultará"
+
+#: admin/class-uli-contact-bar-admin.php:545
+#, fuzzy
+msgid "Headline HTML Tag"
+msgstr "Etiqueta HTML de título"
+
+#: admin/class-uli-contact-bar-admin.php:546
+#, fuzzy
+msgid ""
+"Select the HTML element for the headline without changing the headline style"
+msgstr ""
+"Seleccione el elemento HTML para el título sin cambiar el estilo del título"
+
+#: admin/class-uli-contact-bar-admin.php:553
+#, fuzzy
+msgid "Appeareance of texts and links"
+msgstr "Aparición de textos y enlaces"
+
+#: admin/class-uli-contact-bar-admin.php:554
+#, fuzzy
+msgid "Set the graphical properties of the texts and links in the contact bar."
+msgstr ""
+"Establezca las propiedades gráficas de los textos y vínculos en la barra de "
+"contactos."
+
+#: admin/class-uli-contact-bar-admin.php:558
+#, fuzzy
+msgid "Show texts on small displays"
+msgstr "Mostrar textos en pantallas pequeñas"
+
+#: admin/class-uli-contact-bar-admin.php:559
+#, fuzzy
+msgid ""
+"Activate to keep the postal address, phone numbers and mail address "
+"displayed in small displays"
+msgstr ""
+"Activar para mantener la dirección postal, los números de teléfono y la "
+"dirección de correo que se muestran en pantallas pequeñas"
+
+#: admin/class-uli-contact-bar-admin.php:563
+msgid "Text Alignment"
+msgstr "Alineación de texto"
+
+#: admin/class-uli-contact-bar-admin.php:564
+#, fuzzy
+msgid "Select the alignment of the content within the bar"
+msgstr "Seleccione la alineación del contenido dentro de la barra"
+
+#: admin/class-uli-contact-bar-admin.php:565
+#, fuzzy
+msgid "left-aligned"
+msgstr "alineado a la izquierda"
+
+#: admin/class-uli-contact-bar-admin.php:565
+msgid "centered"
+msgstr "centrado"
+
+#: admin/class-uli-contact-bar-admin.php:565
+#, fuzzy
+msgid "right-aligned"
+msgstr "alineado a la derecha"
+
+#: admin/class-uli-contact-bar-admin.php:570
+msgid "Font Size"
+msgstr "Tamaño de fuente"
+
+#: admin/class-uli-contact-bar-admin.php:571
+#, fuzzy
+msgid "Select the font size of the texts and links"
+msgstr "Seleccione el tamaño de fuente de los textos y enlaces"
+
+#: admin/class-uli-contact-bar-admin.php:577
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: admin/class-uli-contact-bar-admin.php:578
+msgid "Select the text color"
+msgstr "Selecciona el color del texto"
+
+#: admin/class-uli-contact-bar-admin.php:582
+msgid "Link Color"
+msgstr "Color de los enlaces"
+
+#: admin/class-uli-contact-bar-admin.php:583
+#, fuzzy
+msgid "Select the link color"
+msgstr "Seleccione el color del enlace"
+
+#: admin/class-uli-contact-bar-admin.php:587
+#, fuzzy
+msgid "Open links in new windows"
+msgstr "Abrir enlaces en nuevas ventanas"
+
+#: admin/class-uli-contact-bar-admin.php:588
+#, fuzzy
+msgid "Activate to let the links load the target site in new windows or tabs"
+msgstr ""
+"Activar para permitir que los vínculos carguen el sitio de destino en nuevas "
+"ventanas o pestañas"
+
+#: admin/class-uli-contact-bar-admin.php:592
+#, fuzzy
+msgid ""
+"Do not open the links of the postal address and the headline in new windows"
+msgstr ""
+"No abra los enlaces de la dirección postal y el titular en nuevas ventanas"
+
+#: admin/class-uli-contact-bar-admin.php:593
+#, fuzzy
+msgid ""
+"Activate to exclude the links of the postal address and the headline from "
+"the previous option to open them in the same window"
+msgstr ""
+"Activar para excluir los enlaces de la dirección postal y el título de la "
+"opción anterior para abrirlos en la misma ventana"
+
+#: admin/class-uli-contact-bar-admin.php:598
+#, fuzzy
+msgid "Appeareance of the icons"
+msgstr "Aparición de los iconos"
+
+#: admin/class-uli-contact-bar-admin.php:599
+#, fuzzy
+msgid "Set the graphical properties of the icons in the contact bar."
+msgstr ""
+"Establezca las propiedades gráficas de los iconos en la barra de contactos."
+
+#: admin/class-uli-contact-bar-admin.php:603
+msgid "Icon Size"
+msgstr "Tamaño del Icono"
+
+#: admin/class-uli-contact-bar-admin.php:604
+#, fuzzy
+msgid "Select the size of the icons"
+msgstr "Seleccione el tamaño de los iconos"
+
+#: admin/class-uli-contact-bar-admin.php:610
+#, fuzzy
+msgid "Icon Brightness"
+msgstr "Brillo de icono"
+
+#: admin/class-uli-contact-bar-admin.php:611
+#, fuzzy
+msgid "Select the brightness of the icons"
+msgstr "Seleccione el brillo de los iconos"
+
+#: admin/class-uli-contact-bar-admin.php:612
+#, fuzzy
+msgid "bright"
+msgstr "Brillante"
+
+#: admin/class-uli-contact-bar-admin.php:612
+#, fuzzy
+msgid "dark"
+msgstr "Oscuro"
+
+#: public/class-uli-contact-bar.php:447
+#, fuzzy
+msgid "You do not have sufficient permissions to manage options for this site."
+msgstr ""
+"No tiene permisos suficientes para administrar las opciones de este sitio."
+
+#: public/class-uli-contact-bar.php:453
+#, fuzzy
+msgid "Contact to us"
+msgstr "Póngase en contacto con nosotros"
+
+#: public/class-uli-contact-bar.php:576
+#, fuzzy, php-format
+msgid ""
+"The plugin requires WordPress version %s or higher. Therefore, WordPress did "
+"not activate it. If you want to use this plugin update the Wordpress files "
+"to the latest version."
+msgstr ""
+"El plugin requiere la versión de WordPress %s o superior. Por lo tanto, "
+"WordPress no lo activó. Si desea utilizar este plugin actualizar los "
+"archivos de Wordpress a la última versión."
+
+#: public/class-uli-contact-bar.php:1187
+#, fuzzy, php-format
+msgid "Welcome to the plugin %s! You can configure it at %s."
+msgstr "Bienvenido al plugin %s! Puede configurarlo en %s."
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "Uli Contact Bar"
+msgstr "Barra de contacto de Uli"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://www.ulisesfreitas.com/uli-contact-bar"
+msgstr "https://www.ulisesfreitas.com/uli-contact-bar"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+"Esta es una breve descripción de lo que hace el plugin. Se muestra en el "
+"área de administración de WordPress."
+
+#. Author of the plugin/theme
+msgid "Ulises Freitas"
+msgstr "Ulises Freitas"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://www.ulisesfreitas.com/"
+msgstr "https://www.ulisesfreitas.com/"
